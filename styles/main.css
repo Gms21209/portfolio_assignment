@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+}
+
+header {
+  text-align: left;
+}
+
+h1, h2 {
+  color: #fff;
+  font-family: 'Fira Mono', monospace;
+  text-transform: uppercase;
+  padding-left: 450px;
+}
+
+h1 {
+  padding-top: 200px;
+  font-weight: bold;
+}
